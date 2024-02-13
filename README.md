@@ -1,2 +1,2 @@
 # my_vimrc
-My personal .vimrc file
+This repo contains the latest version of my personal `.vimrc` file.
